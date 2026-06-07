@@ -1,6 +1,6 @@
-# 🛒 ShopEasy - Full Stack E-Commerce Learning Project
+#  ShopEasy - Full Stack E-Commerce Learning Project
 
-## 📌 About Project
+##  About Project
 
 ShopEasy is a full stack e-commerce web application created for learning and improving practical web development skills.
 
@@ -10,7 +10,7 @@ The main purpose of this project is to understand how a real-world application f
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Learn React JS component-based development
 - Understand frontend and backend communication
@@ -22,7 +22,7 @@ The main purpose of this project is to understand how a real-world application f
 
 ---
 
-# 🚀 Features Implemented
+#  Features Implemented
 
 ## User Module
 
@@ -58,7 +58,7 @@ The main purpose of this project is to understand how a real-world application f
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 ## Frontend
 
@@ -118,50 +118,49 @@ Concepts Practiced:
 
 ---
 
-# 📂 Folder Structure
+# Folder Structure
 
 
 ```text
 ShopEasy
 
-├── frontend
+frontend
 
-│   ├── src
+   src
 
-│   ├── components
+    components
 
-│   │       Navbar.jsx
-│   │       ProductCard.jsx
-│   │       Footer.jsx
+           Navbar.jsx
+          ProductCard.jsx
+          Footer.jsx
 
-│   ├── pages
+ pages
 
-│   │       Home.jsx
-│   │       Products.jsx
-│   │       Login.jsx
-│   │       Register.jsx
-│   │       Cart.jsx
+          Home.jsx
+          Products.jsx
+          Login.jsx
+          Register.jsx
+          Cart.jsx
 
-│   ├── App.js
-│   └── index.js
-
-
-├── backend
-
-│   ├── config
-
-│   │      db.js
-
-│   ├── routes
-
-│   │      userRoutes.js
-│   │      productRoutes.js
-│   │      cartRoutes.js
-
-│   └── server.js
+    App.js
+   index.js
 
 
-└── database
+backend
+
+   config
+
+        db.js
+
+      routes
+
+         userRoutes.js
+         productRoutes.js
+        cartRoutes.js
+
+       server.js
+
+database
 
     shopeasy.sql
 
@@ -169,7 +168,7 @@ ShopEasy
 
 ---
 
-# ⚙️ Installation and Setup
+#  Installation and Setup
 
 
 ## Clone Project
